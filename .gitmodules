@@ -1,0 +1,9 @@
+[submodule "postservice"]
+	path = postservice
+	url = https://github.com/agneto/ems-postservice.git
+[submodule "microservices/textprocessorservice"]
+	path = microservices/textprocessorservice
+	url = https://github.com/agneto/ems-textprocessorservice.git
+[submodule "microservices/postservice"]
+	path = microservices/postservice
+	url = https://github.com/agneto/ems-postservice.git
